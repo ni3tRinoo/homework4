@@ -48,7 +48,7 @@ a {
 
 main {
     max-width: auto;
-    height: 1988px;
+    height: 2500px;
 }
 
 
@@ -88,12 +88,13 @@ img{
 }
 
 button{
-    margin-left: 700px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 114px;
-    position: absolute;
     width: 165px;
     height: 60px;
     border: 1px solid #626262;
+    display: block;
 }
 
 body{
